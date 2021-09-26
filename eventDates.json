@@ -1,0 +1,194 @@
+[
+  {
+    "eventDate": "15/10/2015",
+    "settlementDate": "15/10/2015",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 66,803123",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "12/05/2016",
+    "settlementDate": "12/05/2016",
+    "event": "Premio",
+    "percentage": null,
+    "paymentValue": "R$ 0,600184",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "17/10/2016",
+    "settlementDate": "17/10/2016",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 75,876576",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "16/10/2017",
+    "settlementDate": "16/10/2017",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 77,165414",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "22/12/2017",
+    "settlementDate": "22/12/2017",
+    "event": "Premio",
+    "percentage": null,
+    "paymentValue": "R$ 1,237386",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2018",
+    "settlementDate": "15/10/2018",
+    "event": "Amortizacao",
+    "percentage": 0.05,
+    "paymentValue": "R$ 63,533894",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2018",
+    "settlementDate": "15/10/2018",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 80,325277",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "10/06/2019",
+    "settlementDate": "10/06/2019",
+    "event": "Premio",
+    "percentage": null,
+    "paymentValue": "R$ 3,221896",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2019",
+    "settlementDate": "15/10/2019",
+    "event": "Amortizacao",
+    "percentage": 0.05,
+    "paymentValue": "R$ 62,103586",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2019",
+    "settlementDate": "15/10/2019",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 79,492589",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2020",
+    "settlementDate": "15/10/2020",
+    "event": "Amortizacao",
+    "percentage": 0.08,
+    "paymentValue": "R$ 97,357116",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2020",
+    "settlementDate": "15/10/2020",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "R$ 77,566976",
+    "Status": "Liquidado"
+  },
+  {
+    "eventDate": "15/10/2021",
+    "settlementDate": "15/10/2021",
+    "event": "Amortizacao",
+    "percentage": 0.1,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2021",
+    "settlementDate": "15/10/2021",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2022",
+    "settlementDate": "17/10/2022",
+    "event": "Amortizacao",
+    "percentage": 0.12,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2022",
+    "settlementDate": "17/10/2022",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2023",
+    "settlementDate": "16/10/2023",
+    "event": "Amortizacao",
+    "percentage": 0.15,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2023",
+    "settlementDate": "16/10/2023",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2024",
+    "settlementDate": "15/10/2024",
+    "event": "Amortizacao",
+    "percentage": 0.15,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2024",
+    "settlementDate": "15/10/2024",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2025",
+    "settlementDate": "15/10/2025",
+    "event": "Amortizacao",
+    "percentage": 0.15,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2025",
+    "settlementDate": "15/10/2025",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2026",
+    "settlementDate": "15/10/2026",
+    "event": "Amortizacao",
+    "percentage": 1,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  },
+  {
+    "eventDate": "15/10/2026",
+    "settlementDate": "15/10/2026",
+    "event": "Pagamento de juros",
+    "percentage": 0.064,
+    "paymentValue": "-",
+    "Status": "Previsto"
+  }
+]
